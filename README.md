@@ -58,7 +58,9 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theforster&theme=radical&show_icons=true)
+<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=theforster&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theforster&layout=compact&theme=radical)
 
 ### ☕ I didn't drink coffee from three years...
